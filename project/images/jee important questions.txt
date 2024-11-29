@@ -1,0 +1,59 @@
+Important topics:-
+
+1.explain briefly about JEE. Specifications, advantages and disadvantages.
+2.history about JEE
+3.about applets. Applet life cycle, applet methods. Example program.
+4.applet security.
+5.servlet life cycle, configuration
+6.JSTL tags very important.
+7.difference b/w static and dynamic.
+8.difference b/w servlet and CGI.
+9.what is JPA and components of JPA and benefits of JPA.
+10.define JMS and characteristics in distributed system.
+11.total about JMS.
+12.define web services and its features.
+13.soap based webservices and characteristics.
+14.restful services and characteristics.
+15.graph query language.
+16.JAX-WS and JAX-RS
+17.components of web services -very important.
+18.components and uses of WSDI
+19.components and uses of UDDI
+20.benefits of web services.
+21.JSON characteristics.
+22.XML characteristics.
+23.JAX-WS  and JAX-RS web services by using XML.
+24.comparison b/w WS and RS.
+25.briefly
+ explain about JAAS-authorization and authentication classes.
+26.components of JAAS.
+27.JAAS architecture-important***.
+28.JAAS API.
+29.authentication code***.
+30.best practices of JAAS.
+31.springs
+32.spring security and spring security architecture
+33.integration mechanisms.
+34.cross framework authentication.
+35.JMS-versions,what is JMS. About JMS.
+36.differences between JMS 1.0 and JMS 2.0-short.
+37.concurrency challenges.
+38.context service, managed thread factory, managed executor service, managed scheduled executor service-both long and short.
+39.thread life cycle with example.
+40.thread management strategies.
+41.thread pool.
+42.thread safety.
+43.asynchronous programming.
+44.time services and scheduling tasks.
+45.asynchronous operations.
+46.JNDI.
+47.JNDI architecture.
+48.JNDI packages.
+49.locating resources and JNDI.
+50.Benfits of JNDI.
+51.JNDI providers and its features.
+52.JNDI lookups
+53.JNDI security
+
+
+

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - KM Technologies</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <ul id="navbar">
+        <li><a  href="index.html">HOME</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="product.html">PRODUCT</a></li>
+        <li><a href="login.html">LOGIN</a></li>
+        <li><a href="cart.html"><i class="fas fa-shopping-bag"></i></a></li>
+   </ul>
+<main>
+    <div class="container">
+        <section class="contact-us">
+            <h2>Contact Us</h2>
+            <p>If you have any questions, please feel free to reach out to us. We are here to help!</p>
+            <div class="contact-info">
+                <h3>Our Office</h3>
+                <p>Gachibowli KM Technologies Ave, Near AG Hospitals ,Hyderabad</p>
+                
+                <h3>Email</h3>
+                <p>info@kmtechnologies.com</p>
+                
+                <h3>Phone Numbers</h3>
+                <p>Main Office: +1 234 567 8901</p>
+                <p>Support: +1 234 567 8902</p>
+                <p>Sales: +1 234 567 8903</p>
+            </div>
+            
+            <form action="submit_form.php" method="post">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Message</label>
+                <textarea id="message" name="message" required></textarea>
+                
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </div>
+</main>
+</body>
+</html>
